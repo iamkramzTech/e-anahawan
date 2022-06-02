@@ -6,7 +6,7 @@ for the economic leverage of our municipality.
 
 # Title: ANAHAWAN COMMUNITY TECHNOPRENEUR ECONOMIC LEVERAGE INFRASTRUCTURE
 
-Main Objectives
+# Main Objectives:
 	1. How to increase sales and profitability of the SME in the municipality of Anahawan.
 	2. How to develop a platform that will connect buyers and merchandisers.
 	3. How to enhance the marketing strategy of different SME businesses.
