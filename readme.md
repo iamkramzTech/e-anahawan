@@ -2,9 +2,9 @@
 e-anahawan or TABO-AN is an e-commerce website exclusive in Municipality of Anahawan
 for the economic leverage of our municipality.
 
-#We Developed this system for our Capstone Project 
+# We Developed this system for our Capstone Project 
 
-#Title: ANAHAWAN COMMUNITY TECHNOPRENEUR ECONOMIC LEVERAGE INFRASTRUCTURE
+# Title: ANAHAWAN COMMUNITY TECHNOPRENEUR ECONOMIC LEVERAGE INFRASTRUCTURE
 
 Main Objectives
 	1. How to increase sales and profitability of the SME in the municipality of Anahawan.
